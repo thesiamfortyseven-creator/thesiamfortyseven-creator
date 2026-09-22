@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Siam Ahmed</h1>
 
-<!--
-**thesiamfortyseven-creator/thesiamfortyseven-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">A space for personal projects, ideas, and progress.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/thesiamfortyseven-creator?tab=repositories">Explore repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/thesiamfortyseven-creator?tab=stars">Explore starred projects</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Welcome
+
+I’m Siam Ahmed. Welcome to my GitHub workspace.
+
+This profile is the starting point for my personal projects, experiments, and notes. As this workspace grows, featured work will be highlighted here.
+
+### Explore
+
+- **[Repositories](https://github.com/thesiamfortyseven-creator?tab=repositories)** — Browse public projects and their documentation.
+- **[Activity](https://github.com/thesiamfortyseven-creator?tab=overview)** — Follow updates and contributions.
+
+---
+
+<p align="center"><sub>Thanks for visiting.</sub></p>
